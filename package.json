@@ -1,0 +1,26 @@
+{
+  "name": "marko",
+  "version": "1.0.0",
+  "description": "MARKO ⚡ - Professional Dark/Neon Website with JavaScript & Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "marko",
+    "website",
+    "dark",
+    "neon",
+    "responsive"
+  ],
+  "author": "MARKO",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
